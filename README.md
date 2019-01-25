@@ -1,4 +1,4 @@
 # Data-Analysis
 Data Analysis Using Python
 
-My Blog lzxyzq.github.io
+My Blog: lzxyzq.github.io
